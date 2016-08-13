@@ -299,14 +299,14 @@
        y2="269.10541" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4359">
+       id="clipPath4382">
       <rect
-         y="-323.92175"
-         x="-1014.7253"
-         height="705.44958"
+         style="opacity:1;fill:#2d78ba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect4384"
          width="503.89258"
-         id="rect4361"
-         style="opacity:1;fill:#2d78ba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         height="705.44958"
+         x="-1005.7672"
+         y="-323.92175" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -316,17 +316,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="132.50635"
-     inkscape:cy="174.88637"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="185.34719"
+     inkscape:cy="184.01118"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1536"
-     inkscape:window-height="801"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="766"
+     inkscape:window-height="792"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -352,8 +352,8 @@
      transform="translate(-289.86786,-217.06122)">
     <g
        id="g4326"
-       transform="matrix(0.44652374,0,0,0.44652374,742.9668,361.69997)"
-       clip-path="url(#clipPath4359)"
+       transform="matrix(0.44652374,0,0,0.44652374,738.9668,361.69997)"
+       clip-path="url(#clipPath4382)"
        style="fill:#2d78ba;fill-opacity:1">
       <image
          width="1280"
@@ -458,15 +458,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="356.6384"
-       y="-307.23163"
+       x="352.59778"
+       y="-308.24179"
        id="text4514"
        sodipodi:linespacing="125%"
        transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
-         x="356.6384"
-         y="-307.23163"
+         x="352.59778"
+         y="-308.24179"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RM Typerighter old';-inkscape-font-specification:'RM Typerighter old';text-align:start;text-anchor:start"
-         id="tspan4528">Dr. M. Swann</tspan></text>
+         id="tspan4528">Madelaine Swann</tspan></text>
   </g>
 </svg>
