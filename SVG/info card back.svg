@@ -522,9 +522,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="90.928946"
-     inkscape:cy="141.80484"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="3.116297"
+     inkscape:cy="130.31377"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -849,5 +849,12 @@
         </g>
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4272"
+       width="225"
+       height="315"
+       x="289.86786"
+       y="217.06122" />
   </g>
 </svg>

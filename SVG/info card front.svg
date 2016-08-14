@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="info card.svg">
+   sodipodi:docname="info card front.svg">
   <defs
      id="defs4">
     <clipPath
@@ -415,17 +415,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="167.79567"
-     inkscape:cy="149.78904"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="93.921005"
+     inkscape:cy="213.72649"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1536"
-     inkscape:window-height="801"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="766"
+     inkscape:window-height="792"
+     inkscape:window-x="761"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -440,7 +440,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -449,62 +449,49 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-289.86786,-217.06122)">
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 607.05576,-3.1520322 0,315.0000022 225,0 0,-315.0000022 -225,0 z m 9,9 207,0 0,297.0000022 -207,0 0,-297.0000022 z"
-       id="rect4195"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="409.24811"
-       y="157.37979"
-       id="text4514"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="409.24811"
-         y="157.37979"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RM Typerighter old';-inkscape-font-specification:'RM Typerighter old';text-align:center;text-anchor:middle"
-         id="tspan4528">Dead Drop</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4213"
-       y="251.17531"
-       x="311.70868"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4215"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RM Typerighter old';-inkscape-font-specification:'RM Typerighter old';text-align:start;text-anchor:start"
+    <g
+       id="g4262"
+       transform="translate(0,5)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="311.70868"
          y="251.17531"
-         x="311.70868"
-         sodipodi:role="line">Setup</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="311.70868"
-       y="265.74863"
-       id="text4217"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4219"
-         x="311.70868"
+         id="text4213"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="311.70868"
+           y="251.17531"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RM Typerighter old';-inkscape-font-specification:'RM Typerighter old';text-align:start;text-anchor:start"
+           id="tspan4215">Setup</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4217"
          y="265.74863"
-         style="font-size:10px">1. The Drop: 1 face down</tspan><tspan
-         sodipodi:role="line"
          x="311.70868"
-         y="278.24863"
-         id="tspan4221"
-         style="font-size:10px">2. Stash: 1 per player, face up</tspan><tspan
-         sodipodi:role="line"
-         x="311.70868"
-         y="290.74863"
-         id="tspan4223"
-         style="font-size:10px">3. Distribute remaining cards</tspan><tspan
-         sodipodi:role="line"
-         x="311.70868"
-         y="303.24863"
-         id="tspan4225"
-         style="font-size:10px">evenly among all 2-4 players.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="265.74863"
+           x="311.70868"
+           id="tspan4219"
+           sodipodi:role="line">1. The Drop: 1 face down</tspan><tspan
+           style="font-size:10px"
+           id="tspan4221"
+           y="278.24863"
+           x="311.70868"
+           sodipodi:role="line">2. Stash: 1 per player, face up</tspan><tspan
+           style="font-size:10px"
+           id="tspan4223"
+           y="290.74863"
+           x="311.70868"
+           sodipodi:role="line">3. Distribute remaining cards</tspan><tspan
+           style="font-size:10px"
+           id="tspan4225"
+           y="303.24863"
+           x="311.70868"
+           sodipodi:role="line">evenly among all 2-4 players.</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -766,5 +753,12 @@
            x="458.68481"
            sodipodi:role="line">5</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4272"
+       width="225"
+       height="315"
+       x="289.86786"
+       y="217.06122" />
   </g>
 </svg>
