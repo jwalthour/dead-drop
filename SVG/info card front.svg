@@ -416,7 +416,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000001"
-     inkscape:cx="93.921005"
+     inkscape:cx="168.921"
      inkscape:cy="213.72649"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -754,11 +754,13 @@
            sodipodi:role="line">5</tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.4241395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4272"
-       width="225"
-       height="315"
-       x="289.86786"
-       y="217.06122" />
+       width="220.57587"
+       height="310.57587"
+       x="292.07993"
+       y="219.27328"
+       rx="28.674862"
+       ry="28.839188" />
   </g>
 </svg>

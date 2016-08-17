@@ -523,14 +523,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="3.116297"
+     inkscape:cx="96.555407"
      inkscape:cy="130.31377"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="792"
+     inkscape:window-width="1087"
      inkscape:window-height="792"
-     inkscape:window-x="762"
+     inkscape:window-x="-7"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -850,11 +850,13 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.4241395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4272"
-       width="225"
-       height="315"
-       x="289.86786"
-       y="217.06122" />
+       width="220.57587"
+       height="310.57587"
+       x="292.07996"
+       y="219.27328"
+       rx="28.674862"
+       ry="28.839188" />
   </g>
 </svg>
