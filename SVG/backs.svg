@@ -399,17 +399,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4284">
-      <rect
-         style="opacity:1;fill:#42004f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="rect4286"
-         width="225"
-         height="315"
-         x="289.86786"
-         y="217.06122" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath4487-409">
       <rect
          y="217.06122"
@@ -1253,14 +1242,6 @@
        id="linearGradient4208"
        xlink:href="#linearGradient4192"
        inkscape:collect="always" />
-    <filter
-       id="filter4141"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4143"
-         stdDeviation="0.35044037"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4089"
        inkscape:collect="always">
@@ -1411,6 +1392,17 @@
          x="289.86786"
          y="217.06122" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3252">
+      <rect
+         style="fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3254"
+         width="219.89796"
+         height="307.85715"
+         x="292.41888"
+         y="220.63264" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1419,9 +1411,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="168.52029"
-     inkscape:cy="389.25552"
+     inkscape:zoom="1.4"
+     inkscape:cx="337.2171"
+     inkscape:cy="71.442131"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1462,7 +1454,7 @@
        preserveAspectRatio="none"
        height="301.00204"
        width="722.40497"
-       clip-path="url(#clipPath4284)" />
+       clip-path="url(#clipPath3252)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

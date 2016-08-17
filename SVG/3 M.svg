@@ -233,17 +233,6 @@
        y2="269.10541" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4462">
-      <rect
-         y="215.55586"
-         x="-385.83249"
-         height="284.35712"
-         width="203.11223"
-         id="rect4464"
-         style="opacity:1;fill:#42004f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath4487-409">
       <rect
          y="217.06122"
@@ -1087,14 +1076,6 @@
        id="linearGradient4208-14"
        xlink:href="#linearGradient4192-24"
        inkscape:collect="always" />
-    <filter
-       id="filter4141-27"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4143-6"
-         stdDeviation="0.35044037"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4089-1"
        inkscape:collect="always">
@@ -1301,6 +1282,17 @@
        y1="255.70152"
        x2="120.72295"
        y2="269.10541" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3238">
+      <rect
+         style="fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3240"
+         width="198.5065"
+         height="277.90912"
+         x="-383.5296"
+         y="218.77986" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1310,7 +1302,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-211.92255"
+     inkscape:cx="-382.63684"
      inkscape:cy="243.34283"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -1346,7 +1338,7 @@
     <g
        id="g4260"
        transform="matrix(1.107762,0,0,1.107762,717.27842,-21.723369)"
-       clip-path="url(#clipPath4462)">
+       clip-path="url(#clipPath3238)">
       <image
          width="567"
          height="318.60001"

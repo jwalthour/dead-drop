@@ -461,17 +461,6 @@
          id="rect4412"
          style="opacity:1;fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4389">
-      <rect
-         style="opacity:1;fill:#2d78ba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="rect4391"
-         width="467.20328"
-         height="654.08459"
-         x="-974.54822"
-         y="-336.55505" />
-    </clipPath>
     <linearGradient
        y2="269.10541"
        x2="120.72295"
@@ -639,14 +628,6 @@
        id="linearGradient4208-9"
        xlink:href="#linearGradient4192-2"
        inkscape:collect="always" />
-    <filter
-       id="filter4141-1"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4143-8"
-         stdDeviation="0.35044037"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4089-6"
        inkscape:collect="always">
@@ -797,6 +778,17 @@
          x="289.86786"
          y="217.06122" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3151">
+      <rect
+         style="fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3153"
+         width="456.60913"
+         height="639.25275"
+         x="-969.25116"
+         y="-329.13913" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -806,7 +798,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-109.81614"
+     inkscape:cx="-195.17328"
      inkscape:cy="296.87427"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -842,7 +834,7 @@
     <g
        id="g4326"
        transform="matrix(0.48158908,0,0,0.48158908,759.19965,379.14246)"
-       clip-path="url(#clipPath4389)"
+       clip-path="url(#clipPath3151)"
        style="fill:#2d78ba;fill-opacity:1">
       <image
          width="1280"

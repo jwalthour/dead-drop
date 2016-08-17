@@ -251,17 +251,6 @@
     </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4410">
-      <rect
-         style="opacity:1;fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="rect4412"
-         width="225"
-         height="315"
-         x="289.86786"
-         y="217.06122" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath4487-40">
       <rect
          y="217.06122"
@@ -770,14 +759,6 @@
        id="linearGradient4307"
        xlink:href="#linearGradient4089-9"
        inkscape:collect="always" />
-    <filter
-       id="filter4141-2"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4143-3"
-         stdDeviation="0.35044037"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4089-9"
        inkscape:collect="always">
@@ -1030,6 +1011,17 @@
          x="289.86786"
          y="217.06122" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3195">
+      <rect
+         y="220.63264"
+         x="292.41888"
+         height="307.85715"
+         width="219.89796"
+         id="rect3197"
+         style="fill:#1b3a55;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1039,8 +1031,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-39.797734"
-     inkscape:cy="146.96804"
+     inkscape:cx="5.9316761"
+     inkscape:cy="222.96726"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1074,7 +1066,7 @@
      transform="translate(-289.86786,-217.06122)">
     <g
        id="g4404"
-       clip-path="url(#clipPath4410)">
+       clip-path="url(#clipPath3195)">
       <image
          transform="matrix(0.34315895,0,0,0.34315895,123.02429,460.59964)"
          clip-path="none"
