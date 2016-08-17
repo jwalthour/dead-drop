@@ -292,11 +292,11 @@
          width="567"
          height="318.60001"
          preserveAspectRatio="none"
-         xlink:href="file:///C:/Users/spami/Documents/Projects/dead%20drop%20knockoff/Source%20photos/11122012skyfall-jpg_214159.jpg"
+         xlink:href="file:///../Source%20photos/11122012skyfall-jpg_214159.jpg"
          id="image4157"
          x="-530.02313"
          y="224.2688"
-         sodipodi:absref="C:\Users\spami\Documents\Projects\dead drop knockoff\Source photos\11122012skyfall-jpg_214159.jpg" />
+         sodipodi:absref="..\Source photos\11122012skyfall-jpg_214159.jpg" />
       <path
          sodipodi:nodetypes="ccccccccccccccccccc"
          inkscape:connector-curvature="0"

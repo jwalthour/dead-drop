@@ -520,11 +520,11 @@
          width="209.93088"
          height="315.46677"
          preserveAspectRatio="none"
-         xlink:href="file:///C:/Users/spami/Documents/Projects/dead%20drop%20knockoff/Source%20photos/vesper%20lynd%20with%20tons%20of%20background%20noise.jpg"
+         xlink:href="file:///../Source%20photos/vesper%20lynd%20with%20tons%20of%20background%20noise.jpg"
          id="image4152"
          x="-105.45276"
          y="523.45343"
-         sodipodi:absref="C:\Users\spami\Documents\Projects\dead drop knockoff\Source photos\vesper lynd with tons of background noise.jpg" />
+         sodipodi:absref="..\Source photos\vesper lynd with tons of background noise.jpg" />
       <path
          sodipodi:nodetypes="cccccccscscscscscsscscsscssccsscsccssscccccscccscsccscssccccsccccccssscc"
          inkscape:connector-curvature="0"

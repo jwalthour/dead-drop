@@ -451,11 +451,11 @@
      id="layer1"
      transform="translate(-289.86786,-217.06122)">
     <image
-       sodipodi:absref="C:\Users\spami\Documents\Projects\dead drop knockoff\Source photos\Skyfall_-_Gun_Barrel.jpg"
+       sodipodi:absref="..\Source photos\Skyfall_-_Gun_Barrel.jpg"
        y="224.0602"
        x="41.165386"
        id="image4235"
-       xlink:href="file:///C:/Users/spami/Documents/Projects/dead%20drop%20knockoff/Source%20photos/Skyfall_-_Gun_Barrel.jpg"
+       xlink:href="file:///../Source%20photos/Skyfall_-_Gun_Barrel.jpg"
        preserveAspectRatio="none"
        height="301.00204"
        width="722.40497"

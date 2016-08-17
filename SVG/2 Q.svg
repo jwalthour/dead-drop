@@ -595,11 +595,11 @@
          width="537"
          height="683"
          preserveAspectRatio="none"
-         xlink:href="file:///C:/Users/spami/Documents/Projects/dead%20drop%20knockoff/Source%20photos/ben%20wishaw%20as%20q.jpg"
+         xlink:href="file:///../Source%20photos/ben%20wishaw%20as%20q.jpg"
          id="image4154"
          x="-468.63513"
          y="-68.46048"
-         sodipodi:absref="C:\Users\spami\Documents\Projects\dead drop knockoff\Source photos\ben wishaw as q.jpg" />
+         sodipodi:absref="..\Source photos\ben wishaw as q.jpg" />
       <path
          sodipodi:nodetypes="cccsssscccscsscssssscsccccscccscccccccsscccssscssccccc"
          inkscape:connector-curvature="0"
